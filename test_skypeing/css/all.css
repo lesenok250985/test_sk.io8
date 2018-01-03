@@ -1,0 +1,149 @@
+body{
+	margin: 0;
+
+}
+*{
+	box-sizing: border-box;
+}
+
+.wrapper{
+	max-width: 960px;
+	margin: 0 auto;
+}
+
+
+
+.pic{
+	width: 150px;
+	border: solid transparent;
+    margin:0 auto;
+}
+
+td{
+	text-align: center;
+}
+
+.table_words{
+	/*margin: 0 auto;*/
+	margin-top: 25px;
+}
+
+.name_words{
+	font-family: 'LeagueGothic-Regular';
+	font-size: 30px;
+	color: #22aaec;
+}
+
+.blue_letter{
+	color:#076e9f;
+}
+
+
+.section2{
+	margin-top: 50px;
+    text-align: justify;
+    
+	
+}
+
+.highlight{
+	color:#98e43f;
+	font-family: 'Roboto-BoldCondensedItalic';
+}
+.highlight1{
+	color:#ecc422;
+	font-weight: bold;
+	font-size: 20px;
+	font-family:'Roboto-BoldCondensedItalic' ;
+}
+.head_word1{
+	color: #41474a;
+	font-family:'Roboto-BoldCondensedItalic' ;
+	text-align: center;
+}
+
+.list_menu{
+	font-family:"Roboto-Light" ;
+	font-weight: bold;
+	color:#79a3c0;
+
+}
+.second_content{
+	padding-top: 15px;
+}
+
+.first_content{
+	margin-left: 35px;
+}
+
+ul.list_menu{
+	list-style-type: circle;
+
+}
+
+.haed_word{
+	color: #90d4f5;
+
+	
+}
+.third_content{
+	margin-top: 35px;
+	margin-left: 20px;
+}
+
+.section3{
+	height: 500px;
+}
+
+ol.list_lang li{
+	color: #707070;
+	font-size: 20px;
+}
+
+.list_lang li:first-child{
+	font-family:'Roboto-BoldCondensedItalic';
+	font-weight: bold;
+}
+
+.list_lang li:nth-child(2){
+	font-style: italic;
+	
+}
+
+.list_lang li:nth-child(3){
+	font-weight: bold;
+	
+}
+
+.list_lang li:nth-child(4){
+	font-style: italic;
+	
+}
+.list_lang li:last-child{
+	font-style: italic;
+	
+}
+
+
+ol.dif_list li:first-child{
+	font-weight: bold;
+	color: #707070;
+    font-size: 20px;
+}
+
+.img_block{
+	padding-top: 30px;
+}
+
+.block_img{
+	padding-top: 25px;
+
+}
+.head_word2{
+	font-family:'Roboto-BoldCondensedItalic';
+	font-size: 23px;
+
+}
+.footer{
+	height: 200px;
+}
